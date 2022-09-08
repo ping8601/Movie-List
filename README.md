@@ -1,7 +1,15 @@
-# Movie-List
+# Movie List
+A simple web application for movie fanatic
 
-Movie List is a project done in ALPHACamp BootCamp.
-It allows the users to 
-1. view all the movies get from "https://movie-list.alphacamp.io/api/v1/movies/"
-2. search the movies with keyword
-3. add favorite movies to favorite movie list
+## Features
+- listing movies from movie api
+- searching movies by title
+- add movies to your favorite list
+- manage your favorite list
+
+### Searching
+type the title of the movies in search bar
+### Favorite List
+In index page, press the `+` button on the movie to keep it into favorite list.
+You can checkout the favorite list in `favorite.html`
+press `x` to remove it from favorite list
